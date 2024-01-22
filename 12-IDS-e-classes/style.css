@@ -1,0 +1,20 @@
+.descricao-produto {
+background-color: orange;
+color: aliceblue;
+}
+
+.promocao {
+    border: solid 10px green;
+
+}
+/* Tanto o metodo de cima, quando o de baixo estão fazendo a mesma coisa, porém o de cima é mais utilizado pois deixa o código mais limpo. Foi permitido fazer o metodo acima pois a estlizização é a mesma. 
+
+#descricao-videogame {
+    background-color: orange;
+    }
+
+#descricao-pc {
+    background-color: orange;
+    } */
+
+ 
